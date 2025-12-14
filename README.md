@@ -171,19 +171,19 @@ Users enjoy a seamless shopping experience:
 
 ---
 
-##🛠️ Local Setup Instructions
-###Backend
+## 🛠️ Local Setup Instructions
+### Backend
 ```bash
 cd backend
 npm install
 npm run dev
 ```
 
-##Create a .env file:
+## Create a .env file:
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
-###Frontend
+### Frontend
 ```bash
 cd frontend
 npm install
