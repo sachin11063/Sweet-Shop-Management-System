@@ -81,7 +81,7 @@ Users enjoy a seamless shopping experience:
 
 ### ☁️ Deployment
 - ▲ Vercel (Frontend)
-- 🌍 Cloud-hosted backend services
+- 🌍 Render (Backend)
 
 ---
 
