@@ -30,7 +30,8 @@ Below are real screenshots showcasing admin and user workflows, inventory manage
 
 
 ### 🔐 Authentication
-![Register Page](screenshots/2.png)
+![Register Page](screenshots/2.png)<img width="1439" height="796" alt="2" src="https://github.com/user-attachments/assets/81407f06-de35-4bff-8b20-ef21ad6b0042" />
+
 ![Login Page](screenshots/3.png)
 
 ### 🛠 Admin Dashboard & Inventory
