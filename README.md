@@ -21,6 +21,33 @@ It focuses on:
 This project is suitable for real shop scenarios and academic or portfolio use.
 
 ---
+## 📸 Project Screenshots
+
+Below are real screenshots showcasing admin and user workflows, inventory management, dark/light modes, and cart functionality.
+
+### 🏠 Landing Page
+![Landing Page](<img width="1439" height="795" alt="1" src="https://github.com/user-attachments/assets/c62e0c01-b375-4ae9-a39b-3fab35fdddb2" />)
+
+
+### 🔐 Authentication
+![Register Page](screenshots/2.png)
+![Login Page](screenshots/3.png)
+
+### 🛠 Admin Dashboard & Inventory
+![Admin Dashboard](screenshots/4.png)
+![Admin Sweets Table](screenshots/5.png)
+
+### 🌙 Admin Dark Mode
+![Admin Dark Mode](screenshots/6.png)
+![Admin Dark Mode – Filters](screenshots/7.png)
+
+### 🧑‍💻 User Dashboard
+![User Dashboard](screenshots/8.png)
+
+### 🛒 Cart & Checkout
+![User Cart](screenshots/9.png)
+
+---
 
 ## 👥 User Roles
 
