@@ -1,24 +1,33 @@
 # 🍬 TDD Kata: Sweet Shop Management System
 
-A modern, full-stack **Sweet Shop Management System** designed to handle real-world shop operations with ease.  
-Built for **admins** to manage inventory efficiently and **users** to browse, cart, and purchase sweets with a smooth, responsive experience.
+A full-stack **Sweet Shop Management System** built to manage real-world shop operations.  
+This project demonstrates RESTful API development, authentication, inventory management, frontend SPA design, Test-Driven Development principles, and transparent AI usage.
 
 🌐 **Live Demo**  
 👉 https://sweet-shop-management-system-mauve.vercel.app
 
 ---
 
+## 🎯 Objective
+
+The goal of this kata is to design, build, and test a complete Sweet Shop Management System while showcasing:
+- Backend API development
+- Secure authentication
+- Database-backed inventory management
+- Frontend implementation using a modern framework
+- Test-driven thinking
+- Responsible and transparent use of AI tools
+
+---
+
 ## 🚀 Overview
 
-The Sweet Shop Management System simplifies daily shop operations using a clean UI, real-time inventory handling, and role-based access control.
+The system supports two roles:
 
-It focuses on:
-- Ease of use
-- Real-time updates
-- Clean and modern UI
-- Smooth animations and responsiveness
+- **Admin**: Manages sweets inventory (add, update, restock, delete)
+- **User**: Browses sweets, searches with filters, adds to cart, and purchases items
 
-This project is suitable for real shop scenarios and academic or portfolio use.
+The application features a clean UI, responsive layout, smooth animations, and dark/light mode support.
 
 ---
 
@@ -29,7 +38,8 @@ This project is suitable for real shop scenarios and academic or portfolio use.
 - React Router
 - JavaScript (ES6+)
 - Custom CSS
-- Dark / Light Theme Support
+- Responsive Design
+- Dark / Light Theme
 - CSS Animations & Transitions
 
 ### 🛠️ Backend
@@ -47,18 +57,35 @@ This project is suitable for real shop scenarios and academic or portfolio use.
 
 ## 🧪 Test-Driven Development (TDD)
 
-This project follows the **Red → Green → Refactor** cycle to ensure reliable and maintainable code.
+This project follows the **Red → Green → Refactor** approach.
 
-**Workflow:**
-- Write failing tests first
-- Implement the minimum logic required to pass tests
-- Refactor code for clarity, performance, and maintainability
+### Approach
+- Tests are written to define expected behavior before or alongside feature development
+- Core business logic is validated using automated tests
+- Refactoring is performed after tests pass
 
-### ✅ Tested Areas
+### Covered Areas
 - Authentication flows
 - Sweet CRUD operations
 - Inventory purchase and restock logic
-- Authorization and role-based access checks
+- Authorization and role-based access control
+
+Tests focus on validating **business logic and edge cases**, not just happy paths.
+
+---
+
+## 🧪 Testing & Test Report
+
+### Tools
+- Jest
+- Supertest
+
+### Run Backend Tests
+```bash
+cd backend
+npm install
+npm test
+```
 
 Tests focus on validating **business logic and edge cases**, not just happy paths.
 
@@ -144,6 +171,27 @@ Users enjoy a seamless shopping experience:
 
 ---
 
+##🛠️ Local Setup Instructions
+###Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+##Create a .env file:
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+
+###Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+
+---
+
 ## 🎯 Why This Project Stands Out
 
 - Real-world shop workflow implementation
@@ -172,5 +220,4 @@ Software Engineer passionate about building clean, scalable web applications wit
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub.  
-It really helps and means a lot.
+⭐ If you like this project, consider giving it a star on GitHub. It really helps and means a lot.
