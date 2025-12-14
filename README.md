@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System
+# TDD Kata: Sweet Shop Management System
 
 A modern, full-stack **Sweet Shop Management System** designed to handle real-world shop operations with ease.  
 Built for **admins** to manage inventory efficiently and **users** to browse, cart, and purchase sweets with a smooth, responsive experience.
