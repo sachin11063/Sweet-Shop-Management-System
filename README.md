@@ -26,33 +26,33 @@ This project is suitable for real shop scenarios and academic or portfolio use.
 Below are real screenshots showcasing admin and user workflows, inventory management, dark/light modes, and cart functionality.
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/1.png)<img width="1439" height="795" alt="1" src="https://github.com/user-attachments/assets/42dd18af-8f20-4e37-9e87-35cb8736f7f1" />
+![Landing Page]<img width="1439" height="795" alt="1" src="https://github.com/user-attachments/assets/42dd18af-8f20-4e37-9e87-35cb8736f7f1" />
 
 
 ### 🔐 Authentication
-![Register Page](screenshots/2.png)<img width="1439" height="796" alt="2" src="https://github.com/user-attachments/assets/81407f06-de35-4bff-8b20-ef21ad6b0042" />
+![Register Page]<img width="1439" height="796" alt="2" src="https://github.com/user-attachments/assets/81407f06-de35-4bff-8b20-ef21ad6b0042" />
 
-![Login Page](screenshots/3.png)<img width="1440" height="795" alt="3" src="https://github.com/user-attachments/assets/ca1185ea-620a-43f0-8d44-cb73820af8a5" />
+![Login Page]<img width="1440" height="795" alt="3" src="https://github.com/user-attachments/assets/ca1185ea-620a-43f0-8d44-cb73820af8a5" />
 
 
 ### 🛠 Admin Dashboard & Inventory
-![Admin Dashboard](screenshots/4.png)<img width="1440" height="795" alt="4" src="https://github.com/user-attachments/assets/33fc12a7-8427-45da-a25c-c0259defb5f0" />
+![Admin Dashboard]<img width="1440" height="795" alt="4" src="https://github.com/user-attachments/assets/33fc12a7-8427-45da-a25c-c0259defb5f0" />
 
-![Admin Sweets Table](screenshots/5.png)<img width="1440" height="795" alt="5" src="https://github.com/user-attachments/assets/c1db1077-963e-4ba5-8c06-07ed1554b335" />
+![Admin Sweets Table]<img width="1440" height="795" alt="5" src="https://github.com/user-attachments/assets/c1db1077-963e-4ba5-8c06-07ed1554b335" />
 
 
 ### 🌙 Admin Dark Mode
-![Admin Dark Mode](screenshots/6.png)<img width="1440" height="797" alt="6" src="https://github.com/user-attachments/assets/d239f60c-f9cf-4b60-b1f5-8c8706c69de7" />
+![Admin Dark Mode]<img width="1440" height="797" alt="6" src="https://github.com/user-attachments/assets/d239f60c-f9cf-4b60-b1f5-8c8706c69de7" />
 
-![Admin Dark Mode – Filters](screenshots/7.png)<img width="1440" height="735" alt="7" src="https://github.com/user-attachments/assets/a3d3de1f-f4c6-4845-9c53-c9ac18f103cd" />
+![Admin Dark Mode – Filters]<img width="1440" height="735" alt="7" src="https://github.com/user-attachments/assets/a3d3de1f-f4c6-4845-9c53-c9ac18f103cd" />
 
 
 ### 🧑‍💻 User Dashboard
-![User Dashboard](screenshots/8.png)<img width="1440" height="749" alt="8" src="https://github.com/user-attachments/assets/3e9b4ef8-74e5-4118-8180-c6461c558687" />
+![User Dashboard]<img width="1440" height="749" alt="8" src="https://github.com/user-attachments/assets/3e9b4ef8-74e5-4118-8180-c6461c558687" />
 
 
 ### 🛒 Cart & Checkout
-![User Cart](screenshots/9.png)<img width="1440" height="795" alt="9" src="https://github.com/user-attachments/assets/c0ebcb4c-58cd-4eaf-87e6-78ee4ba0b8ae" />
+![User Cart]<img width="1440" height="795" alt="9" src="https://github.com/user-attachments/assets/c0ebcb4c-58cd-4eaf-87e6-78ee4ba0b8ae" />
 
 
 ---
